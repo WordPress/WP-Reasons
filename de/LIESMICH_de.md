@@ -14,7 +14,7 @@ Entstanden während des WordCamp US 2015 Contributor Days, folgende Leute haben 
 
 <h3>Lizenz</h3>
 
-Der Text in dem Dokument (beinhaltet nicht das WordPress-Logo oder Trademark) ist lizensiert unter <a href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0 Universal (CC0 1.0) Public Domain Dedication</a>. Du darfst die Arbeit kopieren, modifizieren, verteilen und vorführen, auch für kommerzielle Zwecke, alles ohne um Erlaubnis zu fragen.
+Der Text in dem Dokument (beinhaltet nicht das WordPress-Logo oder Trademark) ist lizenziert unter <a href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0 Universal (CC0 1.0) Public Domain Dedication</a>. Du darfst die Arbeit kopieren, modifizieren, verteilen und vorführen, auch für kommerzielle Zwecke, alles ohne um Erlaubnis zu fragen.
 
 Die Icons stammen von dem <a href="http://genericons.com/">Genericons Project</a>, einem freien, GPL, flexiblen Icon-Font.
 
