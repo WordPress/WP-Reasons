@@ -1,0 +1,45 @@
+%!Adobe-FontList 1.16
+%Locale:0x407
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:OpenSans-Bold
+FamilyName:Open Sans
+StyleName:Bold
+FullName:Open Sans Bold
+MenuName:Open Sans
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:C:\Users\Angel\Desktop\WP-Reasons-master\WP-Reasons-master\InDesignFiles\Document fonts\OpenSans-Bold.ttf
+DataFormat:sfntData
+FileLength:224592
+FileModTime:1454900951
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Open Sans Bold
+NameArray:0,Win,1,Open Sans
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:OpenSans
+FamilyName:Open Sans
+StyleName:Regular
+FullName:Open Sans
+MenuName:Open Sans
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\Angel\Desktop\WP-Reasons-master\WP-Reasons-master\InDesignFiles\Document fonts\OpenSans-Regular.ttf
+DataFormat:sfntData
+FileLength:217360
+FileModTime:1454900951
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Open Sans
+NameArray:0,Win,1,Open Sans
+%EndFont
+
